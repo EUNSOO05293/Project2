@@ -3,7 +3,7 @@
 
 #define ARR_SIZE 10
 
-// 함수 프로토타입 선언
+
 void fillCD(int arr[], int size, int start, int diff);
 void PrintArray(int arr[], int size);
 
